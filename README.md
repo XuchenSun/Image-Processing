@@ -18,3 +18,8 @@
     Figure 1: get the grayscale image.
    
     Figute 2: change the value of grayscale about the image. 
+
+
+***specific_filer.m***
+
+    8 specific filer for image processing
