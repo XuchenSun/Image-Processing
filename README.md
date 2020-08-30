@@ -25,3 +25,7 @@
 ***specific_filer.m***
 
     8 specific filers for image processing
+
+***FT processing.m***
+
+    get the FT result of a picture
