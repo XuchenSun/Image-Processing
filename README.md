@@ -32,3 +32,24 @@
 ***FT processing.m***
 
     get the FT result of a picture
+    
+***Color_Image_Processing and Canny_Edge_Detect***    
+   
+   **Input and Output**
+   
+   Input:mypc.jpg
+     
+     <dimensions of 800*600>
+     <resolution are 96 dpi>
+     <bit depth is 24>
+     
+     
+    
+  ***FT processing.m***
+   Output: 
+         Figure1       <Normalized Gray Histogram >	  
+	      Figure2       <HSL image> Color Image Processing
+         Figure22     <6 pictures about Canny processing> Edge Detecting
+
+
+   
