@@ -1,19 +1,19 @@
 # Image-Processing
 
-Hello everyone!
+   Hello everyone!
 
-My name is Xuchen and these are my image processing programs.
+   My name is Xuchen and these are my image processing programs.
 
-All programs are written in Matlab.
+   All programs are written in Matlab.
 
-Some descriptions are in followed.
+   Some descriptions are in followed.
 
-I hope these programs can help you.
+   I hope these programs can help you.
 
-Best wishes.
+   Best wishes.
 
 
-Description about Grayscale_image_processing.m
+**Description about Grayscale_image_processing.m**
 
     *Figure 1: get the grayscale image.
    
