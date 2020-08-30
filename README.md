@@ -13,7 +13,9 @@
    Best wishes.
 
 
-***Description about Grayscale_image_processing.m***
+***Descriptions**
+
+***Grayscale_image_processing.m***
 
     Figure 1: get the grayscale image.
    
