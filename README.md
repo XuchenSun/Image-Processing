@@ -45,11 +45,12 @@
      
      
     
-  ***FT processing.m***
+  
    Output: 
-         Figure1       <Normalized Gray Histogram >	  
-	      Figure2       <HSL image> Color Image Processing
-         Figure22     <6 pictures about Canny processing> Edge Detecting
+          
+	  Figure1       <Normalized Gray Histogram >	  
+	  Figure2       <HSL image> Color Image Processing
+          Figure22     <6 pictures about Canny processing> Edge Detecting
 
 
    
