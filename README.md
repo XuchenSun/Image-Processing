@@ -50,7 +50,20 @@
           
 	  Figure1       <Normalized Gray Histogram >	  
 	  Figure2       <HSL image> Color Image Processing
-          Figure22     <6 pictures about Canny processing> Edge Detecting
+          Figure22      <6 pictures about Canny processing> Edge Detecting
 
+***Key processing steps about Color_Image_Processing and Canny_Edge_Detect***
 
+Color Image Processing:
+	 
+	 Step1: Seperate Red Green and Blue of original picture
+	 Step2: calculation about i,s,h,θ(hue, saturation,lightness)
+ 	 Step3： Change value andCombine to a new HSL image.
+   
+Canny Edge Detecting:
+
+	Step1: Gaussian filter processing
+	Step2: Partial derivative computing
+	Step3: Gradient magnitude computing(Critical Section)
+	Step4: Double threshold algorithm and connects edges
    
