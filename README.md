@@ -24,4 +24,4 @@
 
 ***specific_filer.m***
 
-    8 specific filer for image processing
+    8 specific filers for image processing
