@@ -13,7 +13,7 @@
    Best wishes.
 
 
-***Descriptions**
+**Descriptions**
 
 ***Grayscale_image_processing.m***
 
