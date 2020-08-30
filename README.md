@@ -14,5 +14,5 @@ Best wishes.
 
 
 Description about Grayscale_image_processing.m
-    Figure 1: get the grayscale image.
-    Figute 2: change the value of grayscale about the image. 
+    *Figure 1: get the grayscale image.
+    *Figute 2: change the value of grayscale about the image. 
